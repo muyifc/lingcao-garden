@@ -11,6 +11,7 @@ plugin:
   id: lingcao-garden
   package: "@local/lingcao-garden"
   version: 0.1.0
+  repo: https://github.com/muyifc/lingcao-garden
   kind: dsh-bundle
   root: .
   host: index.js
@@ -21,7 +22,7 @@ install:
   - git clone https://github.com/muyifc/lingcao-garden.git
   - DSH Plugins > Add plugin > select repo root
   - enable; reload page
-install_alt: install_bundle(target=<repo root>)
+install_alt: "install_bundle(target=<repo root>)"
 verify:
   test: node --test test/host.test.mjs test/client.test.mjs   # 114 pass
   assets: node scripts/check_focus_assets.mjs                # 48/48
