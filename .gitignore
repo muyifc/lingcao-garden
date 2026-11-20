@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+*.tgz
+dist/
+docs/art-raw/
+docs/art-styles/
+docs/art-contact.png
+scripts/__pycache__/

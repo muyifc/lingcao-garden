@@ -1,0 +1,337 @@
+{
+  "crop-juqi-0": {
+    "file": "assets/crop-juqi-0.webp",
+    "w": 101,
+    "h": 101
+  },
+  "crop-juqi-1": {
+    "file": "assets/crop-juqi-1.webp",
+    "w": 106,
+    "h": 139
+  },
+  "crop-juqi-2": {
+    "file": "assets/crop-juqi-2.webp",
+    "w": 137,
+    "h": 187
+  },
+  "crop-juqi-3": {
+    "file": "assets/crop-juqi-3.webp",
+    "w": 138,
+    "h": 200
+  },
+  "crop-yuehua-0": {
+    "file": "assets/crop-yuehua-0.webp",
+    "w": 117,
+    "h": 115
+  },
+  "crop-yuehua-1": {
+    "file": "assets/crop-yuehua-1.webp",
+    "w": 139,
+    "h": 166
+  },
+  "crop-yuehua-2": {
+    "file": "assets/crop-yuehua-2.webp",
+    "w": 151,
+    "h": 200
+  },
+  "crop-yuehua-3": {
+    "file": "assets/crop-yuehua-3.webp",
+    "w": 152,
+    "h": 198
+  },
+  "tile-soil": {
+    "file": "assets/tile-soil.webp",
+    "w": 256,
+    "h": 189
+  },
+  "tile-fert": {
+    "file": "assets/tile-fert.webp",
+    "w": 256,
+    "h": 189
+  },
+  "tile-locked": {
+    "file": "assets/tile-locked.webp",
+    "w": 256,
+    "h": 188
+  },
+  "tile-ripe": {
+    "file": "assets/tile-ripe.webp",
+    "w": 256,
+    "h": 191
+  },
+  "icon-orb": {
+    "file": "assets/icon-orb.webp",
+    "w": 128,
+    "h": 127
+  },
+  "icon-stone": {
+    "file": "assets/icon-stone.webp",
+    "w": 123,
+    "h": 128
+  },
+  "icon-basket": {
+    "file": "assets/icon-basket.webp",
+    "w": 119,
+    "h": 128
+  },
+  "icon-rain": {
+    "file": "assets/icon-rain.webp",
+    "w": 126,
+    "h": 128
+  },
+  "icon-fertilizer": {
+    "file": "assets/icon-fertilizer.webp",
+    "w": 112,
+    "h": 128
+  },
+  "icon-ripen": {
+    "file": "assets/icon-ripen.webp",
+    "w": 128,
+    "h": 121
+  },
+  "icon-array": {
+    "file": "assets/icon-array.webp",
+    "w": 128,
+    "h": 110
+  },
+  "icon-journal": {
+    "file": "assets/icon-journal.webp",
+    "w": 128,
+    "h": 114
+  },
+  "bg-moon": {
+    "file": "assets/bg-moon.webp",
+    "w": 640,
+    "h": 392
+  },
+  "bg-rain": {
+    "file": "assets/bg-rain.webp",
+    "w": 640,
+    "h": 427
+  },
+  "bg-sea": {
+    "file": "assets/bg-sea.webp",
+    "w": 640,
+    "h": 427
+  },
+  "bg-snow": {
+    "file": "assets/bg-snow.webp",
+    "w": 640,
+    "h": 427
+  },
+  "bg-spring": {
+    "file": "assets/bg-spring.webp",
+    "w": 640,
+    "h": 427
+  },
+  "crop-chenlu-0": {
+    "file": "assets/crop-chenlu-0.webp",
+    "w": 140,
+    "h": 149
+  },
+  "crop-chenlu-1": {
+    "file": "assets/crop-chenlu-1.webp",
+    "w": 152,
+    "h": 169
+  },
+  "crop-chenlu-2": {
+    "file": "assets/crop-chenlu-2.webp",
+    "w": 176,
+    "h": 167
+  },
+  "crop-chenlu-3": {
+    "file": "assets/crop-chenlu-3.webp",
+    "w": 176,
+    "h": 179
+  },
+  "crop-jingxin-0": {
+    "file": "assets/crop-jingxin-0.webp",
+    "w": 136,
+    "h": 97
+  },
+  "crop-jingxin-1": {
+    "file": "assets/crop-jingxin-1.webp",
+    "w": 140,
+    "h": 115
+  },
+  "crop-jingxin-2": {
+    "file": "assets/crop-jingxin-2.webp",
+    "w": 165,
+    "h": 147
+  },
+  "crop-jingxin-3": {
+    "file": "assets/crop-jingxin-3.webp",
+    "w": 176,
+    "h": 166
+  },
+  "crop-tingfeng-0": {
+    "file": "assets/crop-tingfeng-0.webp",
+    "w": 143,
+    "h": 124
+  },
+  "crop-tingfeng-1": {
+    "file": "assets/crop-tingfeng-1.webp",
+    "w": 143,
+    "h": 160
+  },
+  "crop-tingfeng-2": {
+    "file": "assets/crop-tingfeng-2.webp",
+    "w": 150,
+    "h": 192
+  },
+  "crop-tingfeng-3": {
+    "file": "assets/crop-tingfeng-3.webp",
+    "w": 162,
+    "h": 200
+  },
+  "crop-ninglu-0": {
+    "file": "assets/crop-ninglu-0.webp",
+    "w": 138,
+    "h": 117
+  },
+  "crop-ninglu-1": {
+    "file": "assets/crop-ninglu-1.webp",
+    "w": 151,
+    "h": 138
+  },
+  "crop-ninglu-2": {
+    "file": "assets/crop-ninglu-2.webp",
+    "w": 176,
+    "h": 168
+  },
+  "crop-ninglu-3": {
+    "file": "assets/crop-ninglu-3.webp",
+    "w": 176,
+    "h": 168
+  },
+  "crop-yingxing-0": {
+    "file": "assets/crop-yingxing-0.webp",
+    "w": 130,
+    "h": 82
+  },
+  "crop-yingxing-1": {
+    "file": "assets/crop-yingxing-1.webp",
+    "w": 167,
+    "h": 97
+  },
+  "crop-yingxing-2": {
+    "file": "assets/crop-yingxing-2.webp",
+    "w": 149,
+    "h": 147
+  },
+  "crop-yingxing-3": {
+    "file": "assets/crop-yingxing-3.webp",
+    "w": 176,
+    "h": 189
+  },
+  "crop-chiyang-0": {
+    "file": "assets/crop-chiyang-0.webp",
+    "w": 123,
+    "h": 118
+  },
+  "crop-chiyang-1": {
+    "file": "assets/crop-chiyang-1.webp",
+    "w": 131,
+    "h": 157
+  },
+  "crop-chiyang-2": {
+    "file": "assets/crop-chiyang-2.webp",
+    "w": 161,
+    "h": 187
+  },
+  "crop-chiyang-3": {
+    "file": "assets/crop-chiyang-3.webp",
+    "w": 164,
+    "h": 200
+  },
+  "crop-youming-0": {
+    "file": "assets/crop-youming-0.webp",
+    "w": 140,
+    "h": 125
+  },
+  "crop-youming-1": {
+    "file": "assets/crop-youming-1.webp",
+    "w": 144,
+    "h": 143
+  },
+  "crop-youming-2": {
+    "file": "assets/crop-youming-2.webp",
+    "w": 154,
+    "h": 189
+  },
+  "crop-youming-3": {
+    "file": "assets/crop-youming-3.webp",
+    "w": 167,
+    "h": 200
+  },
+  "crop-lingzhi-0": {
+    "file": "assets/crop-lingzhi-0.webp",
+    "w": 139,
+    "h": 100
+  },
+  "crop-lingzhi-1": {
+    "file": "assets/crop-lingzhi-1.webp",
+    "w": 139,
+    "h": 123
+  },
+  "crop-lingzhi-2": {
+    "file": "assets/crop-lingzhi-2.webp",
+    "w": 150,
+    "h": 147
+  },
+  "crop-lingzhi-3": {
+    "file": "assets/crop-lingzhi-3.webp",
+    "w": 176,
+    "h": 177
+  },
+  "crop-zhoutian-0": {
+    "file": "assets/crop-zhoutian-0.webp",
+    "w": 108,
+    "h": 97
+  },
+  "crop-zhoutian-1": {
+    "file": "assets/crop-zhoutian-1.webp",
+    "w": 116,
+    "h": 131
+  },
+  "crop-zhoutian-2": {
+    "file": "assets/crop-zhoutian-2.webp",
+    "w": 152,
+    "h": 162
+  },
+  "crop-zhoutian-3": {
+    "file": "assets/crop-zhoutian-3.webp",
+    "w": 176,
+    "h": 187
+  },
+  "crop-xuanshuang-0": {
+    "file": "assets/crop-xuanshuang-0.webp",
+    "w": 139,
+    "h": 125
+  },
+  "crop-xuanshuang-1": {
+    "file": "assets/crop-xuanshuang-1.webp",
+    "w": 169,
+    "h": 165
+  },
+  "crop-xuanshuang-2": {
+    "file": "assets/crop-xuanshuang-2.webp",
+    "w": 165,
+    "h": 188
+  },
+  "crop-xuanshuang-3": {
+    "file": "assets/crop-xuanshuang-3.webp",
+    "w": 176,
+    "h": 188
+  },
+  "entrance-shop": {
+    "file": "assets/entrance-shop.webp",
+    "w": 168,
+    "h": 176
+  },
+  "entrance-basket": {
+    "file": "assets/entrance-basket.webp",
+    "w": 142,
+    "h": 176
+  }
+}

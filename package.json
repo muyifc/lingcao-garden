@@ -1,0 +1,43 @@
+{
+  "name": "@local/lingcao-garden",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Floating cultivation herb garden for DSH: token usage condenses into spirit stones to buy seeds, fertilizer and new plots.",
+  "license": "MIT",
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "game", "garden"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muyifc/lingcao-garden.git"
+  },
+  "homepage": "https://github.com/muyifc/lingcao-garden#readme",
+  "bugs": {
+    "url": "https://github.com/muyifc/lingcao-garden/issues"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "icon.svg",
+    "assets",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "node --test test/host.test.mjs test/client.test.mjs",
+    "check": "node scripts/check_focus_assets.mjs"
+  },
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  }
+}

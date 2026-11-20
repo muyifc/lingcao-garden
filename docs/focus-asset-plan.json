@@ -1,0 +1,152 @@
+{
+  "style": "Soft cute 3D clay render, rounded chubby toy-like shapes, pastel jade green, cream and soft gold, soft upper-left studio lighting, fixed front orthographic camera.",
+  "layout": "One species per sheet, exactly 2 columns by 2 rows. Top-left sprout, top-right seedling, bottom-left adult, bottom-right ripe. Same camera and physical scale across stages. Small warm brown soil mound, no pot, generous margins, all objects fully inside their quadrants. No text, labels, lines, scenery, watermark or baked glow.",
+  "background": "Transparent background; if an explicitly authorized fallback cannot provide alpha, use flat pure magenta #FF00FF, no floor or external shadow.",
+  "output": "docs/art-raw/crop-<id>.png -> assets/crop-<id>-0..3.webp, common scale per species, max 176x200",
+  "species": [
+    {
+      "id": "chenlu",
+      "name": "晨露芽",
+      "seconds": 30,
+      "status": "ready",
+      "stages": [
+        "tiny mint two-leaf sprout",
+        "four rounded mint leaves with a blue dew bead",
+        "compact succulent rosette",
+        "mint succulent rosette with three large glossy sky-blue dew pearls"
+      ]
+    },
+    {
+      "id": "jingxin",
+      "name": "静心苔",
+      "seconds": 60,
+      "status": "ready",
+      "stages": [
+        "one tiny emerald moss cushion",
+        "three small soft emerald moss cushions",
+        "rounded dense emerald moss cluster",
+        "lush rounded moss cushions dotted with ivory pearl spores"
+      ]
+    },
+    {
+      "id": "juqi",
+      "name": "聚气草",
+      "seconds": 300,
+      "status": "ready",
+      "stages": [
+        "two jade grass blades",
+        "three jade grass blades",
+        "five tall jade blades",
+        "jade grass with three golden pearls"
+      ]
+    },
+    {
+      "id": "tingfeng",
+      "name": "听风竹",
+      "seconds": 600,
+      "status": "ready",
+      "stages": [
+        "small green bamboo shoot",
+        "one short jade bamboo stalk with two leaves",
+        "three slim segmented jade bamboo stalks",
+        "three rounded jade bamboo stalks with ivory bell-like seed pods"
+      ]
+    },
+    {
+      "id": "ninglu",
+      "name": "凝露叶",
+      "seconds": 1200,
+      "status": "ready",
+      "stages": [
+        "tiny teal leaf bud",
+        "two broad teal heart-shaped leaves",
+        "four thick teal heart-shaped leaves",
+        "four teal heart-shaped leaves each cupping a clear pale-blue water bead"
+      ]
+    },
+    {
+      "id": "yuehua",
+      "name": "月华花",
+      "seconds": 1800,
+      "status": "ready",
+      "stages": [
+        "pale green sprout",
+        "pale green seedling",
+        "ivory-blue flower bud",
+        "open pale blue and ivory five-petal flower"
+      ]
+    },
+    {
+      "id": "yingxing",
+      "name": "萤星兰",
+      "seconds": 3600,
+      "status": "ready",
+      "stages": [
+        "two tiny dark teal orchid leaves",
+        "arched teal orchid leaves",
+        "two stems with pale yellow closed buds",
+        "three small creamy yellow star-shaped orchid blossoms above teal leaves"
+      ]
+    },
+    {
+      "id": "chiyang",
+      "name": "赤阳参",
+      "seconds": 7200,
+      "status": "ready",
+      "stages": [
+        "small leaf sprout above reddish root tip",
+        "three emerald leaves above rounded orange root shoulder",
+        "large orange ginseng root shoulder with green leaf fan",
+        "chunky vermilion ginseng root partly above soil, jade leaves and three amber berries"
+      ]
+    },
+    {
+      "id": "youming",
+      "name": "幽冥藤",
+      "seconds": 14400,
+      "status": "ready",
+      "stages": [
+        "tiny blue-green curled vine shoot",
+        "short curved dark teal vine with two leaves",
+        "spiral dark teal vine with blue leaves",
+        "coiled deep teal vine with three navy blue oval berries and silver leaf tips"
+      ]
+    },
+    {
+      "id": "lingzhi",
+      "name": "九转灵芝",
+      "seconds": 28800,
+      "status": "ready",
+      "stages": [
+        "tiny cream mushroom pin",
+        "small amber kidney-shaped mushroom cap",
+        "two layered ochre kidney-shaped caps",
+        "three stacked amber lingzhi caps with concentric cream and gold bands"
+      ]
+    },
+    {
+      "id": "xuanshuang",
+      "name": "玄霜莲",
+      "seconds": 43200,
+      "status": "ready",
+      "stages": [
+        "tiny pale turquoise lotus shoot",
+        "three thick icy jade lotus leaves",
+        "closed ivory lotus bud above ice-blue leaves",
+        "open ivory lotus with pale ice-blue petal tips and small silver seed pod, planted in soil not water"
+      ]
+    },
+    {
+      "id": "zhoutian",
+      "name": "周天灵树",
+      "seconds": 86400,
+      "status": "ready",
+      "stages": [
+        "tiny two-leaf jade tree sprout",
+        "small warm brown trunk with four jade leaves",
+        "small rounded miniature jade tree crown",
+        "compact bonsai-like tree with rounded jade canopy and five cream-gold round fruits, no pot"
+      ]
+    }
+  ]
+}
